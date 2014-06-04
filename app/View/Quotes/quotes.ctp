@@ -1,3 +1,4 @@
+<div class="row">
   <div class="row">
       <div class="large-12 columns">
         <h1>Request a Quote! <small>We'll get back to you as soon as we can.</small></h1>
@@ -162,8 +163,7 @@
     ?>
   </div>
 
-  <div class="row">
-    <?php
-      echo $this->Form->end(array('label' => 'Submit', 'class' => 'button', 'div' => array('class' => 'large-12 columns')));
-    ?>
-  </div>
+  <?php
+    echo $this->Form->end(array('label' => 'Submit', 'class' => 'button'));
+  ?>
+</div>
