@@ -1,7 +1,10 @@
 <div class="row">
   <div class="row">
-      <div class="large-12 columns">
-        <h1>Request a Quote! <small>We'll get back to you as soon as we can.</small></h1>
+      <div class="large-4 columns">
+        <h1>Request a Quote!</h1>
+      </div>
+      <div class="large-8 columns">
+        <h1><small>We'll get back to you as soon as we can.</small></h1>
       </div>
   </div>
   
@@ -43,8 +46,8 @@
   <div class="row">
     <?php
       echo $this->Form->input('pickupDate', array(
-            'label' => 'Pick-up Date',
-            'placeholder' => '12/25/1992',
+            'label' => 'Pick-up Date (mm/dd/yyyy)',
+            'placeholder' => '05/22/1992',
             'class' => 'datepicker',
             'div' => array('class' => 'medium-4 columns'))
         );
@@ -84,9 +87,9 @@
   <div class="row">
     <?php
       echo $this->Form->input('deliveryDate', array(
-            'label' => 'Delivery Date',
+            'label' => 'Delivery Date (mm/dd/yyyy)',
             'class' => 'datepicker',
-            'placeholder' => '05/22/1992',
+            'placeholder' => '12/25/1992',
             'div' => array('class' => 'medium-4 columns'))
         );
 
