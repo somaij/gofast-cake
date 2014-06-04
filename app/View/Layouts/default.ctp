@@ -15,7 +15,9 @@
  * @since         CakePHP(tm) v 0.10.0.1076
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
-
+if (!isset($page)) {
+  $page = null;
+}
 $description = 'Go Fast Express Inc.';
 ?>
 <!doctype html>
@@ -67,10 +69,10 @@ $description = 'Go Fast Express Inc.';
             <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
           </ul>
           <ul class="right">
-            <li <?php if (strpos($_SERVER['PHP_SELF'], 'index.php')) echo 'class="active"'; ?>><a href="/index.php" >Home</a></li>
-            <li <?php if (strpos($_SERVER['PHP_SELF'], 'about.php')) echo 'class="active"'; ?>><a href="/pages/about.php" >About Us</a></li>
-            <li <?php if (strpos($_SERVER['PHP_SELF'], 'quotes.php')) echo 'class="active"'; ?>><a href="/pages/quotes.php" >Quotes</a></li>
-            <li <?php if (strpos($_SERVER['PHP_SELF'], 'jobs.php')) echo 'class="active"'; ?>><a href="/pages/jobs.php" >Jobs</a></li>
+            <li <?php if ($page == 'home') echo 'class="active"'; ?>><?php echo $this->Html->link('Home', '/'); ?></li>
+            <li <?php if ($page == 'about') echo 'class="active"'; ?>><?php echo $this->Html->link('About Us', '/about'); ?></li>
+            <li <?php if ($page == 'quotes') echo 'class="active"'; ?>><?php echo $this->Html->link('Quotes', '/quotes'); ?></li>
+            <li <?php if ($page == 'jobs') echo 'class="active"'; ?>><?php echo $this->Html->link('Jobs', '/jobs'); ?></li>
           </ul>
         </div>
         </div>
