@@ -54,7 +54,7 @@ $description = 'Go Fast Express Inc.';
           <h1><a href="#"><?php echo $this->Html->image('logo.png', array('width' => '250', 'height' => '250')); ?></a></h1>
         </div>
         <div class="large-8 columns">
-          </br>
+          <br>
           <h4 class="right">Your #1 Source for Transportation Services</h4>
         </div>
       </div>
