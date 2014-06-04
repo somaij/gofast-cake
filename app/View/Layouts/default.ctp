@@ -18,6 +18,7 @@
 if (!isset($page)) {
   $page = null;
 }
+
 $description = 'Go Fast Express Inc.';
 ?>
 <!doctype html>
@@ -28,12 +29,12 @@ $description = 'Go Fast Express Inc.';
 		<?php echo $description ?>:
 		<?php echo $title_for_layout; ?>
 	</title>
-	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
-	<?php
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
+  <?php
 		echo $this->Html->meta('icon');
-		echo $this->Html->meta('viewport', 'width=device-width, initial-scale=1.0');
 
 		echo $this->Html->css('normalize');
 		echo $this->Html->css('foundation');
@@ -109,17 +110,19 @@ $description = 'Go Fast Express Inc.';
         </div>
     </footer>
     <?php
-        echo $this->Html->script('vendor/jquery');
-        echo $this->Html->script('glDatePicker');
-        echo $this->Html->script('fastclick');
-        echo $this->Html->script('foundation.min');
-        echo $this->Html->script('foundation/foundation.topbar');
+      echo $this->Html->script('vendor/jquery');
+      if ($page == 'quotes') { echo $this->Html->script('glDatePicker'); }
+      echo $this->Html->script('fastclick');
+      echo $this->Html->script('foundation.min');
+      echo $this->Html->script('foundation/foundation.topbar');
     ?>
     <script type="text/javascript">
       $(document).ready(function(){
+        <?php if ($page == 'quotes') { ?>
         $('.datepicker').glDatePicker({
           cssName: 'flatwhite'
         });
+        <?php } ?>
 
         $(document).foundation({
           topbar: {
@@ -129,6 +132,5 @@ $description = 'Go Fast Express Inc.';
         });
       });
     </script>
-    <?php // echo $this->element('sql_dump'); ?>
   </body>
 </html>

@@ -36,6 +36,7 @@ class PagesController extends AppController {
  * @var array
  */
 	public $uses = array();
+	public $components = array('DebugKit.Toolbar');
 
 /**
  * Displays a view

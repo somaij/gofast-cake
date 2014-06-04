@@ -520,887 +520,3253 @@ Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+<<<<<<< HEAD
 2014-06-04 18:11:05 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+2014-06-04 18:18:19 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:11:05 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:19 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:11:05 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:19 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:11:08 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:19 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:11:08 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:19 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:11:08 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:20 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:10 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:10 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:10 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:14 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:14 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:18:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:14 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:41 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:15 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:41 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:15 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:41 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:15 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:41 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:17 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:43 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:17 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:43 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:17 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:43 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:18 Error: [MissingControllerException] Controller class QuotesController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:45 Error: [MissingControllerException] Controller class QuotesController could not be found.
 Exception Attributes: array (
   'class' => 'QuotesController',
   'plugin' => NULL,
 )
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:19:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:51 Error: [MissingControllerException] Controller class QuotesController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
+Exception Attributes: array (
+  'class' => 'QuotesController',
+  'plugin' => NULL,
+)
+<<<<<<< HEAD
 Request URL: /gofastcake/quotes
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:18 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:52 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:18 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:52 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:18 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:52 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:20 Error: [MissingControllerException] Controller class JobsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:53 Error: [MissingControllerException] Controller class JobsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JobsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/jobs
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:21 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/jobs
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:54 Error: [MissingControllerException] Controller class JsController could not be found.
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:20:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:32 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:21 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:33 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:21 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:33 Error: [MissingControllerException] Controller class QuotesController could not be found.
+Exception Attributes: array (
+  'class' => 'QuotesController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:33 Error: [MissingControllerException] Controller class JsController could not be found.
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:35 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:22 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:23:35 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:22 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:26:54 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:22 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:26:54 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:29 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:26:55 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:29 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:26:55 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:38:29 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:26:55 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:40:31 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:26:55 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:40:31 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:33 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:40:31 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:33 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:40:56 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:33 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:40:56 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:33 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:40:56 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:33 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:41:27 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:33 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:41:27 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:34 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:41:27 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:34 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:42:29 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:34 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:42:29 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:34 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:42:29 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:34 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:42:55 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:35 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:42:55 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:35 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:42:55 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:35 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:45:54 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:38 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:45:54 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:38 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:45:54 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:39 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:12 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:40 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:12 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:40 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:12 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:40 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:33 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:40 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:33 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:40 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:33 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:57 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:57 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:57 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:57 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:57 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:48:57 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:57 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:49:14 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:29:57 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:49:14 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:30:43 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:49:14 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:30:43 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:52:45 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:30:43 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:52:45 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:30:43 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:53:07 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:30:43 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:53:07 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:30:46 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 #1 {main}
 2014-06-04 18:53:41 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:30:46 Error: [MissingControllerException] Controller class JsController could not be found.
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:30:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:53:41 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:31 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:16 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:31 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:16 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:31 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:16 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:46 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:27 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:46 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:27 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:46 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:46 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:46 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:46 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:46 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:53 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:46 Error: [MissingControllerException] Controller class QuotesController could not be found.
+Exception Attributes: array (
+  'class' => 'QuotesController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:46 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:53 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:46 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:53 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:59 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:54:59 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:47 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 #1 {main}
 2014-06-04 18:55:41 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:53 Error: [MissingControllerException] Controller class QuotesController could not be found.
+Exception Attributes: array (
+  'class' => 'QuotesController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:33:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:00 Error: [MissingControllerException] Controller class JobsController could not be found.
+Exception Attributes: array (
+  'class' => 'JobsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/jobs
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:01 Error: [MissingControllerException] Controller class QuotesController could not be found.
+Exception Attributes: array (
+  'class' => 'QuotesController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:34:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:05 Error: [MissingControllerException] Controller class QuotesController could not be found.
+Exception Attributes: array (
+  'class' => 'QuotesController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:37:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:40:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:40:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:40:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:41:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:41:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:41:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:41:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:41:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:41:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:41:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:41:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:12 Error: [MissingControllerException] Controller class QuotesController could not be found.
+Exception Attributes: array (
+  'class' => 'QuotesController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:44:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:48 Error: [MissingActionException] Action QuotesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'QuotesController',
+  'action' => 'index',
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(QuotesController), Object(CakeRequest))
+#2 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-06-04 18:46:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:51 Error: [MissingActionException] Action JobsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'index',
+)
+Request URL: /gofast/jobs
+Stack Trace:
+#0 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-06-04 18:46:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:56 Error: [MissingActionException] Action QuotesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'QuotesController',
+  'action' => 'index',
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(QuotesController), Object(CakeRequest))
+#2 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-06-04 18:46:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:57 Error: [MissingActionException] Action JobsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'index',
+)
+Request URL: /gofast/jobs
+Stack Trace:
+#0 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-06-04 18:46:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:46:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:49:08 Error: [MissingViewException] View file "D:\git\gofast-cake\app\View\Quotes\quotes.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\git\\gofast-cake\\app\\View\\Quotes\\quotes.ctp',
+)
+Request URL: /gofast/quotes
+Stack Trace:
+#0 D:\Git\gofast-cake\lib\Cake\View\View.php(468): View->_getViewFileName('quotes')
+#1 D:\Git\gofast-cake\lib\Cake\Controller\Controller.php(954): View->render('quotes', NULL)
+#2 D:\Git\gofast-cake\app\Controller\QuotesController.php(5): Controller->render('quotes')
+#3 [internal function]: QuotesController->index()
+#4 D:\Git\gofast-cake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(QuotesController), Array)
+#5 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 D:\Git\gofast-cake\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(QuotesController), Object(CakeRequest))
+#7 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-06-04 18:49:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:49:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:49:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:49:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:09 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:55:41 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:09 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:55:41 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:09 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:01 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:10 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:01 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:10 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:01 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:10 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:35 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:10 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:35 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:10 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:35 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:12 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:42 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:12 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:42 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:12 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:42 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:12 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:52 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:12 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:52 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:13 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:52 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.dropdown.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:13 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:56 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:14 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.dropdown.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:56 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:14 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/foundation.topbar.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
 2014-06-04 18:57:56 Error: [MissingControllerException] Controller class JsController could not be found.
+=======
+Request URL: /gofast/js/foundation.topbar.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-04 18:50:14 Error: [MissingControllerException] Controller class JsController could not be found.
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 Exception Attributes: array (
   'class' => 'JsController',
   'plugin' => NULL,
 )
+<<<<<<< HEAD
 Request URL: /gofastcake/js/fastclick.js
 Stack Trace:
 #0 C:\Sites\gofastcake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+=======
+Request URL: /gofast/js/fastclick.js
+Stack Trace:
+#0 D:\git\gofast-cake\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+>>>>>>> 2cc7d4d666d422938f2cc83c690c5a8e7f986081
 #1 {main}
