@@ -39,8 +39,8 @@
 <div class="row">
 <?php
 foreach ($data as $entry) {
-  $entry['Announcement'] = $ann;
-  echo "<div class='medium-4 columns'><h4>" . $this->Html->link($ann['title'], '/announcements/'.$ann['slug']) . "</h4>"
+  $ann = $entry['Announcement'];
+  echo "<div class='medium-4 columns'><h4>" . $this->Html->link($ann['title'], '/announcements/view/'.$ann['slug']) . "</h4>"
     . "<p>" . (strlen($ann['body']) > 150 ? substr($ann['body'],0,150) : $ann['body']) . "...</p></div>";
 }
 ?> 
