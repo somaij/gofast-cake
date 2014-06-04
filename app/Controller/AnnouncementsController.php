@@ -3,7 +3,7 @@
 class AnnouncementsController extends AppController {
   
   public function index($slug = null) {
-      $this->render('announcements');
+    $this->render('announcements');
   }
 
   public function view($slug) {
