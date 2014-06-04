@@ -109,3 +109,21 @@ border-bottom:3px solid #ee6123;
 .top-bar{
 background:none;
 }
+button, .button{
+   background-color:transparent;
+  padding: 8px 16px;
+  border-radius: 3px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight:bold;
+  border:2px solid #ee6123;
+  color:#ee6123;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+button:hover, .button:hover{
+  color:#EEE;
+  background-color:#ee6123;
+}
