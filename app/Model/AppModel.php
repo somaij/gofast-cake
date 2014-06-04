@@ -33,6 +33,7 @@ class AppModel extends Model {
 
   protected function uniqueSlug($title, $id = null) {
     $slug = Inflector::slug($title, '-');
+    $slug = substr($slug, 0, 54);
     $slug = strtolower($slug);
 
     $params = array(
