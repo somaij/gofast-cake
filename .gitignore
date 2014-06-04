@@ -1,2 +1,2 @@
 #Ignore tmp directory
-tmp/
+tmp/**
