@@ -1,0 +1,1 @@
+<br><div class="row"><div data-alert id="flashMessage" class="alert-box alert radius"><?php echo h($message); ?><a href="#" class="close">&times;</a></div></div>

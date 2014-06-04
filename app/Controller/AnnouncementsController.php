@@ -11,7 +11,7 @@ class AnnouncementsController extends AppController {
       $this->set('data', $data);
       $this->render('view');
     } else {
-      $this->Session->setFlash('Announcement not found.');
+      $this->Session->setFlash('Announcement not found.', 'error');
       $this->redirect('index');
     }
   }
