@@ -114,20 +114,17 @@ $description = 'Go Fast Express Inc.';
         echo $this->Html->script('foundation/foundation.topbar');
     ?>
     <script type="text/javascript">
-      $(document).ready(
+      $(document).ready(function(){
+        $('.datepicker').glDatePicker({
+          cssName: 'flatwhite'
+        });
 
-      )
-      $(window).load(function()
-      {
-          $('.datepicker').glDatePicker({
-          cssName: 'flatwhite'});
-      });
-
-      $(document).foundation({
-      topbar : {
-        is_hover: false,
-        mobile_show_parent_link: true
-      }
+        $(document).foundation({
+          topbar: {
+            is_hover: false,
+            mobile_show_parent_link: true
+          }
+        });
       });
     </script>
     <?php // echo $this->element('sql_dump'); ?>
