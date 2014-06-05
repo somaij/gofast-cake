@@ -1,8 +1,20 @@
 <?php
 
 class AnnouncementsController extends AppController {
+  public $components = array('Paginator');
+  public $paginate = array(
+        'fields' => array('Announcement.slug', 'Announcement.title', 'Announcement.created', 'Announcement.body'),
+        'limit' => 15,
+        'maxLimit' => 20,
+        'order' => array(
+            'Announcement.created' =>  'desc'
+            )
+        );
   
   public function index($slug = null) {
+    $this->Paginator->settings = $this->paginate;
+    $data = $this->Paginator->paginate('Announcement');
+    $this->set('data', $data);
     $this->render('announcements');
   }
 
@@ -12,7 +24,7 @@ class AnnouncementsController extends AppController {
       $this->render('view');
     } else {
       $this->Session->setFlash('Announcement not found.', 'error');
-      $this->redirect('index');
+      $this->redirect('/announcements/');
     }
   }
 
