@@ -8,7 +8,11 @@
       </div>
   </div>
   
-  <?php echo $this->Form->create(); ?>
+  <?php 
+    echo $this->Form->create('Quote', array(
+              'url' => array('controller' => 'quotes', 'action' => 'send'),
+             'type' => 'post'));
+  ?>
   
   <div class="row">
     <?php echo $this->Form->input('companyName', array(
@@ -68,7 +72,7 @@
             'div' => array('class' => 'large-6 columns'))
         );
 
-      echo $this->Form->input('pickupLocale', array(
+      echo $this->Form->input('pickupProvince', array(
             'label' => 'Pick-up Province/Territory/State',
             'placeholder' => 'ON',
             'div' => array('class' => 'large-3 columns'))
@@ -109,7 +113,7 @@
             'div' => array('class' => 'large-6 columns'))
         );
 
-      echo $this->Form->input('deliveryLocale', array(
+      echo $this->Form->input('deliveryProvince', array(
             'label'=> 'Delivery Province/Territory/State',
             'placeholder' => 'B.C.',
             'div' => array('class' => 'large-3 columns'))
