@@ -48,6 +48,7 @@ $description = 'Go Fast Express Inc.';
 	?>
   </head>
   <body>
+    <div class="page-wrap">
     <header>
       <div class="row">
         <div class="large-4 columns">
@@ -84,7 +85,7 @@ $description = 'Go Fast Express Inc.';
       <?php echo $this->Session->flash(); ?>
 
       <?php echo $this->fetch('content'); ?>
-
+    </div>
     <footer>
       <br/>
       <div class="row">
