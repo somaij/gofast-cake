@@ -1,3 +1,17 @@
+html, body{height:100%;}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -170px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+footer, .page-wrap:after {
+  /* .push must be the same height as footer */
+  height: 170px; 
+}
 html, body, p{
 font-family: 'Roboto', sans-serif;
 -webkit-font-smoothing:antialiased;
