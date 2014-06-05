@@ -33,10 +33,8 @@
       ?>
       <tfoot>
         <tr>
-          <td colspan="3">
-            <div class="text-center">
-              <?php echo $numbers; ?>
-            </div>
+          <td colspan="3" class="text-center">
+            <?php echo $numbers; ?>
           </td>
         </tr>
       </tfoot>

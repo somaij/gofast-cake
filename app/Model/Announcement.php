@@ -12,14 +12,14 @@ class Announcement extends AppModel {
           'minLength' => array(
                  'rule' => array('minLength', 10),
               'message' => 'Title must be at least 10 characters long.'),
-          'required' => 'true'
+          'required' => true
         ),
 
       'body' => array(
           'notEmpty' => array(
                  'rule' => 'notEmpty',
               'message' => 'Announcement body not specified.'),
-          'required' => 'true'
+          'required' => true
         )
     );
 
