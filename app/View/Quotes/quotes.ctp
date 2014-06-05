@@ -80,7 +80,7 @@
 
       echo $this->Form->input('pickupCode', array(
             'label' => 'Pick-up Postal/Zip Code',
-            'placeholder' => 'L3Z 1Q8',
+            'placeholder' => 'L3Z 1E8',
             'div' => array('class' => 'large-3 columns'))
         );
     ?>
@@ -115,7 +115,7 @@
 
       echo $this->Form->input('deliveryProvince', array(
             'label'=> 'Delivery Province/Territory/State',
-            'placeholder' => 'B.C.',
+            'placeholder' => 'BC',
             'div' => array('class' => 'large-3 columns'))
         );
 

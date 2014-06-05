@@ -1,5 +1,7 @@
 <?php
 
+App::uses('CakeEmail', 'Network/Email');
+
 class QuotesController extends AppController {
   public function index() {
     $this->render('quotes');

@@ -31,9 +31,6 @@ class Quote extends AppModel {
             'message' => 'Company name can contain only letters, numbers, the dot, and the hyphen character.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-               'rule' => 'notEmpty',
-            'message' => 'Company name must be specified.'),
         ),
 
       'contactName' => array(
@@ -46,13 +43,10 @@ class Quote extends AppModel {
 
       'phone' => array(
           'phone' => array(
-            'rule' => array('phone', null),
+            'rule' => array('phone', '/^[(]{0,1}[0-9]{3}[)]{0,1}[ -]{0,1}[0-9]{3}[ -]{0,1}[0-9]{4}$/i'),
             'message' => 'Phone number must be a valid Canadian or U.S. number.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'A phone number must be provided.'),
         ),
 
       'email' => array(
@@ -61,14 +55,11 @@ class Quote extends AppModel {
             'message' => 'E-mail must be valid.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'E-mail address must be provided.'),
         ),
 
       'pickupDate' => array(
           'date' => array(
-               'rule' => array('date', 'mdy'),
+            'rule' => array('date', 'mdy'),
             'message' => 'Pick-up date must be in mm-dd-yyyy or mm/dd/yyyy format.',
             'required' => true,
             'allowEmpty' => true),
@@ -80,9 +71,6 @@ class Quote extends AppModel {
             'message' => 'Street name can contain only letters, numbers, the dot, and the hyphen character.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Pick-up address must be provided.')
         ),
 
       'pickupCity' => array(
@@ -91,9 +79,6 @@ class Quote extends AppModel {
             'message' => 'Pick-up city can only contain letters and the hyphen character.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Pick-up city must be provided.')
         ),
 
       'pickupProvince' => array(
@@ -102,9 +87,6 @@ class Quote extends AppModel {
             'message' => 'Pick-up province/territory/state can only contain letters and the hyphen character.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Pick-up province/territory/state must be provided.')
         ),
 
       'pickupCode' => array(
@@ -113,9 +95,6 @@ class Quote extends AppModel {
             'message' => 'Pick-up postal/zip code must be a valid Canadian or U.S. code.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Pick-up postal/zip code must be provided.')
         ),
 
       'deliveryDate' => array(
@@ -132,9 +111,6 @@ class Quote extends AppModel {
             'message' => 'Street name can contain only letters, numbers, the dot, and the hyphen character.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Delivery address must be provided.')
         ),
 
       'deliveryCity' => array(
@@ -143,9 +119,6 @@ class Quote extends AppModel {
             'message' => 'Delivery city can only contain letters and the hyphen character.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Delivery city must be provided.')
         ),
 
       'deliveryProvince' => array(
@@ -154,9 +127,6 @@ class Quote extends AppModel {
             'message' => 'Delivery province/territory/state can only contain letters and the hyphen character.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Delivery province/territory/state must be provided.')
         ),
 
       'deliveryCode' => array(
@@ -165,9 +135,6 @@ class Quote extends AppModel {
             'message' => 'Delivery postal/zip code must be a valid Canadian or U.S. code.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Delivery postal/zip code must be provided.')
         ),
 
       'skids' => array(
@@ -176,9 +143,6 @@ class Quote extends AppModel {
             'message' => 'Skids field must be numeric.',
             'required' => true,
             'allowEmpty' => false),
-          'notEmpty' => array(
-            'rule' => 'notEmpty',
-            'message' => 'Skids count must be specified.')
         ),
 
       'weight' => array(
@@ -195,12 +159,6 @@ class Quote extends AppModel {
             'message' => 'Weight units must be either pounds or kilograms.',
             'required' => true,
             'allowEmpty' => true),
-        ),
-
-      'details' => array(
-        'allowEmpty' => array(
-          'required' => false,
-          'allowEmpty' => true),
         ),
     );
 
