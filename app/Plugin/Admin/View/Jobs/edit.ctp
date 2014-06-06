@@ -1,6 +1,7 @@
+<?php $data = $data['Job']; ?>
 <div class="row">
 <h1>Edit <?php echo $data['title']; ?> Posting</h1>
-<?php echo $this->Form->create('Admin.Job', array('url' => array('controller' => 'jobs', 'action' => 'add'), 'method' => 'post')); ?>
+<?php echo $this->Form->create('Admin.Job', array('url' => array('controller' => 'jobs', 'action' => 'edit', $data['id']), 'method' => 'post')); ?>
   <div class="row">
     <?php
       echo $this->Form->input('title', array(

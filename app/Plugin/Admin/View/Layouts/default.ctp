@@ -70,7 +70,7 @@ $description = 'Go Fast Express Inc.';
             <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
           </ul>
           <ul class="right">
-            <li<?php if ($page == 'home') echo ' class="active"'; ?>><?php echo $this->Html->link('Cpanel Home', '/admin/'); ?></li>
+            <li<?php if ($page == 'home') echo ' class="active"'; ?>><?php echo $this->Html->link('Cpanel Home', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'index')); ?></li>
             <li<?php if ($page == 'announcements') echo ' class="active"'; ?>><?php echo $this->Html->link('Announcements', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'index')); ?></li>
             <li<?php if ($page == 'jobs') echo ' class="active"'; ?>><?php echo $this->Html->link('Job Postings', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'index')); ?></li>
             <li><?php echo $this->Html->link('Sign Out', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'logout')); ?></li>

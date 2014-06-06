@@ -1,6 +1,7 @@
+<?php $data = $data['Announcement']; ?>
 <div class="row">
-<h1>Edit Announcement <?php echo $data['title']; ?></h1>
-<?php echo $this->Form->create('Admin.Announcement', array('url' => array('controller' => 'announcements', 'action' => 'edit'), 'method' => 'post')); ?>
+<h1>Edit Announcement "<?php echo $data['title']; ?>"</h1>
+<?php echo $this->Form->create('Admin.Announcement', array('url' => array('controller' => 'announcements', 'action' => 'edit', $data['id']), 'method' => 'post')); ?>
   <div class="row">
     <?php
       echo $this->Form->input('title', array(

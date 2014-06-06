@@ -24,8 +24,8 @@
 
       <ul class="button-group">
       <li><?php echo $this->Html->link('View All', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'index'), array('class' => 'button right')); ?></li>
-      <li><?php echo $this->Html->link('Edit', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'edit', $data['id']), array('class' => 'button right')); ?></li>
-      <li><?php echo $this->Html->link('Delete', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'delete', $data['id']), array('class' => 'button right')); ?></li>
+      <li><?php echo $this->Html->link('Edit', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'edit', $job['id']), array('class' => 'button right')); ?></li>
+      <li><?php echo $this->Html->link('Delete', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'delete', $job['id']), array('class' => 'button right')); ?></li>
       </ul>
     </div>
   </div>

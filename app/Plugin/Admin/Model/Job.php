@@ -44,6 +44,8 @@ class Job extends AdminAppModel {
     );
 
   public function beforeSave($options = array()) {
-    $this->data['Job']['post_date'] = date('m-d-Y');
+    if (!isset($this->id)) {
+      $this->data['Job']['post_date'] = date('m-d-Y');
+    }
   }
 }

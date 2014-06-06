@@ -29,7 +29,14 @@ class AnnouncementsController extends AdminAppController {
 
   public function edit($id) {
     if ($this->request->is('post')) {
-
+      $this->Announcement->id = $id;
+      
+      if ($this->Announcement->save($this->request->data)) {
+        $this->Session->setFlash('Announcement has been successfully edited.', 'message');
+      } else {
+        // Record was not updated
+        $this->Session->setFlash('Announcement could not be edited.', 'error');
+      }
     }
 
     if ($data = $this->Announcement->findById($id)) {
@@ -44,8 +51,14 @@ class AnnouncementsController extends AdminAppController {
     
   }
 
-  public function delete() {
+  public function delete($id) {
+    if ($this->Announcement->delete($id)) {
+      $this->Session->setFlash('Announcement was successfully deleted.', 'message');
+    } else {
+      $this->Session->setFlash('Announcement could not be deleted.', 'error');
+    }
 
+    $this->redirect('index');
   }
 
   public function beforeRender() {
