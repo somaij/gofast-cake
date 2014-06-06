@@ -41,7 +41,7 @@ class QuotesController extends AppController {
 
           $Email = new CakeEmail();
           $Email->from(array($info['email'] => $info['contactName']))
-            ->to('idunno@somewhere.com')
+            ->to('gofastexpress@gmail.com')
             ->subject('[Quote Request] ' . $info['contactName'] . ' has requested a quote!')
             ->send($message);
 
