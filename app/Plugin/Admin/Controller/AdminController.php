@@ -5,7 +5,7 @@ class AdminController extends AdminAppController {
   public function beforeFilter() {
     parent::beforeFilter();
     // No longer needed once base administrator has been made.
-    $this->Auth->allow('add');
+    //$this->Auth->allow('add');
   }
 
   public function index() {
