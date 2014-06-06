@@ -1,13 +1,5 @@
 <div class="row">
-  <div class="small-12 columns">
-    <div class="row">
-      <div class="large-5 columns">
-        <h1>Looking for work?</h1>
-      </div>
-      <div class="large-7 columns">
-        <h1><small>Take a look at our open positions!</small></h1>
-      </div>
-    </div>
+  <h1>Job Postings</h1>
 
     <table>
       <thead>
