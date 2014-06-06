@@ -88,14 +88,14 @@ $description = 'Go Fast Express Inc.';
     
     <?php
       echo $this->Html->script('vendor/jquery');
-      if ($page == 'quotes') { echo $this->Html->script('glDatePicker'); }
+      if ($page == 'jobs') { echo $this->Html->script('glDatePicker'); }
       echo $this->Html->script('fastclick');
       echo $this->Html->script('foundation.min');
       echo $this->Html->script('foundation/foundation.topbar');
     ?>
     <script type="text/javascript">
       $(document).ready(function(){
-        <?php if ($page == 'quotes') { ?>
+        <?php if ($page == 'jobs') { ?>
         $('.datepicker').glDatePicker({
           cssName: 'flatwhite'
         });
