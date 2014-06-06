@@ -11,14 +11,14 @@
     ?>
   </div>
   <div class="row">
-  <div class="medium-10 columns">
     <?php
-      echo $this->Form->textarea('body', array(
+      echo $this->Form->input('body', array(
                   'label' => 'Content',
-                  'placeholder' => 'Content goes here'
+                  'placeholder' => 'Content goes here',
+                  'type' => 'textarea',
+                  'div' => array('class' => 'medium-10 columns')
                 ));
     ?>
-  </div>
   </div>
   <?php echo $this->Form->end(array('label' => 'Submit', 'class' => 'button')); ?>
 </div>
