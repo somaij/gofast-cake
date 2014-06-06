@@ -21,10 +21,9 @@ class AnnouncementsController extends AppController {
   public function view($slug) {
     if ($data = $this->Announcement->findBySlug($slug)) {
       $this->set('data', $data);
-      $this->render('view');
     } else {
       $this->Session->setFlash('Announcement not found.', 'error');
-      $this->redirect('/announcements/');
+      return $this->redirect('/announcements/');
     }
   }
 

@@ -26,8 +26,8 @@ class Announcement extends AdminAppModel {
     );
 
   public function beforeSave($options = array()) {
-    if (!isset($this->id)) {
-      $this->data['Announcement']['slug'] = $this->uniqueSlug($this->data['Announcement']['title']);
+    if (empty($this->id)) {
+      $this->data[$this->alias]['slug'] = $this->uniqueSlug($this->data[$this->alias]['title']);
     }
   }
 }

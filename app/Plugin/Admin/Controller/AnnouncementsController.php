@@ -23,7 +23,7 @@ class AnnouncementsController extends AdminAppController {
       $this->set('data', $data);
     } else {
       $this->Session->setFlash('Announcement not found.', 'error');
-      $this->redirect('index');
+      return $this->redirect('index');
     }
   }
 
@@ -43,12 +43,21 @@ class AnnouncementsController extends AdminAppController {
       $this->set('data', $data);
     } else {
       $this->Session->setFlash('Announcement not found.', 'error');
-      $this->redirect('index');
+      return $this->redirect('index');
     }
   }
 
   public function add() {
-    
+    if ($this->request->is('post')) {
+      $this->Announcement->create();
+
+      if ($this->Announcement->save($this->request->data)) {
+        $this->Session->setFlash('Announcement successfully created.', 'message');
+        return $this->redirect(array('controller' => 'announcements', 'action' => 'index'));
+      } else {
+        $this->Session->setFlash('Announcement could not be created.', 'error');
+      }
+    }
   }
 
   public function delete($id) {
@@ -58,7 +67,7 @@ class AnnouncementsController extends AdminAppController {
       $this->Session->setFlash('Announcement could not be deleted.', 'error');
     }
 
-    $this->redirect('index');
+    return $this->redirect('index');
   }
 
   public function beforeRender() {

@@ -30,6 +30,7 @@ class AdminController extends AdminAppController {
         return $this->redirect($this->Auth->redirect());
       } else {
         $this->Session->setFlash('Invalid username or password. Try again.', 'error');
+        $this->request->data['Admin']['password'] = '';
       }
     }
   }

@@ -46,8 +46,7 @@ class QuotesController extends AppController {
             ->send($message);
 
           $this->Session->setFlash('You have successfully requested a quote! We will get back to you as soon as possible!', 'message');
-          $this->redirect('/');
-          return;
+          return $this->redirect('/');
         }
       }
 

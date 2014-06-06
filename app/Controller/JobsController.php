@@ -21,10 +21,9 @@ class JobsController extends AppController {
   public function view($id) {
     if ($data = $this->Job->findById($id)) {
       $this->set('data', $data);
-      $this->render('view');
     } else {
       $this->Session->setFlash('Job posting not found.', 'error');
-      $this->redirect('/jobs/');
+      return $this->redirect('/jobs/');
     }
   }
 

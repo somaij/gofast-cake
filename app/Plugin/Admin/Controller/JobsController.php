@@ -22,7 +22,7 @@ class JobsController extends AdminAppController {
       $this->set('data', $data);
     } else {
       $this->Session->setFlash('Job posting not found.', 'error');
-      $this->redirect('index');
+      return $this->redirect('index');
     }
   }
 
@@ -42,7 +42,7 @@ class JobsController extends AdminAppController {
       $this->set('data', $data);
     } else {
       $this->Session->setFlash('Job posting not found.', 'error');
-      $this->redirect('index');
+      return $this->redirect('index');
     }
   }
 
@@ -57,7 +57,7 @@ class JobsController extends AdminAppController {
     } else {
       $this->Session->setFlash('Job posting could not be deleted.', 'error');
     }
-    $this->redirect('index');
+    return $this->redirect('index');
 
   }
 
