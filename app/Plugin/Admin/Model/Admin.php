@@ -19,7 +19,7 @@ class Admin extends AdminAppModel {
         )
       ),
 
-    'password' => array(
+    'pwd' => array(
         'required' => array(
           'rule' => array('notEmpty'),
           'message' => 'A password is required.',

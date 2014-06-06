@@ -2,12 +2,10 @@
 
 class AdminController extends AdminAppController {
 
-  public $uses = array('Admin.Admin');
-
   public function beforeFilter() {
     parent::beforeFilter();
     // No longer needed once base administrator has been made.
-    // $this->Auth->allow('add');
+    $this->Auth->allow('add');
   }
 
   public function index() {
@@ -20,17 +18,19 @@ class AdminController extends AdminAppController {
       if ($this->Admin->save($this->request->data)) {
         $this->Session->setFlash('Administrator has been created.', 'message');
         return $this->redirect(array('action' => 'index'));
+      } else {
+        $this->Session->setFlash('The user could not be saved to the database. Please try again.', 'error');
       }
-      $this->Session->setFlash('The user could not be saved to the database. Please try again.', 'error');
     }
   }
 
   public function login() {
     if ($this->request->is('post')) {
-      if ($this->Auth->login($this->request->data)) {
+      if ($this->Auth->login()) {
         return $this->redirect($this->Auth->redirect());
+      } else {
+        $this->Session->setFlash('Invalid username or password. Try again.', 'error');
       }
-      $this->Session->setFlash('Invalid username or password. Try again.', 'error');
     }
   }
 

@@ -19,6 +19,7 @@ class AdminAppController extends AppController {
 
         'authenticate' => array(
             'Form' => array(
+              'userModel' => 'Admin.Admin',
               'passwordHasher' => 'Blowfish'
             )
           )
