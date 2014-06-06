@@ -1,24 +1,24 @@
 <div class="row">
-  <div class="large-12 columns">
   <h2>Login</h2>
-  </div>
-</div>
-<form>
-<div class="row">
-    <div class="medium-6 columns">
-      <label>Username</label>
-      <input type="text" placeholder="Username"/>
-    </div>
-    </div>
-    <div class="row">
-    <div class="medium-6 columns">
-      <label>Password</label>
-      <input type="text" placeholder="Password" />
-    </div>
+
+  <?php echo $this->Form->create('Admin.Admin', array('url' => array('controller' => 'admin', 'action' => 'login'), 'method' => 'post')); ?>
+  <div class="row">
+    <?php
+      echo $this->Form->input('username', array(
+                  'label' => 'Username',
+                  'placeholder' => 'Username',
+                  'div' => array('class' => 'medium-6 columns')
+                ));
+    ?>
   </div>
   <div class="row">
-    <div class="large-12 columns">
-      <button type="submit">Submit</button>
-    </div>
+    <?php
+      echo $this->Form->input('password', array(
+                  'label' => 'Password',
+                  'placeholder' => 'Password',
+                  'div' => array('class' => 'medium-6 columns')
+                ));
+    ?>
   </div>
-</form>
+  <?php echo $this->Form->end(array('label' => 'Submit', 'class' => 'button')); ?>
+</div>
