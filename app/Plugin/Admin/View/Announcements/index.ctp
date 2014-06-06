@@ -20,7 +20,7 @@
 
           foreach ($data as $ann) {
             $ann = $ann['Announcement'];
-            echo "<tr>" .
+            echo  "<tr>" .
                     "<td>" . $this->Html->link($ann['title'], 'view/'.$ann['slug']) . "</td>" .
                     "<td>" . $ann['created'] . "</td>" .
                     "<td>" . (strlen($ann['body']) > 150 ? substr($ann['body'],0,150) : $ann['body']) . "...</td>" .

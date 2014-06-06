@@ -17,7 +17,7 @@
           foreach ($data as $job) {
             $job = $job['Job'];
 
-            echo "<tr>" .
+            echo  "<tr>" .
                     "<td>" . $this->Html->link($job['title'], 'view/'.$job['id']) . "</td>" .
                     "<td>" . $job['post_date'] . "</td>" .
                     "<td>" . $job['close_date'] . "</td>" .
