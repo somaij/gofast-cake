@@ -2,6 +2,10 @@
 
 class AnnouncementsController extends AdminAppController {
   
+  public function index() {
+
+  }
+
   public function view() {
 
   }
@@ -11,6 +15,10 @@ class AnnouncementsController extends AdminAppController {
   }
 
   public function add() {
+    
+  }
+
+  public function delete() {
     
   }
 
