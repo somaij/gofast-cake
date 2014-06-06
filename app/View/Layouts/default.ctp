@@ -112,6 +112,7 @@ $description = 'Go Fast Express Inc.';
       <div class="row">
         <div class="small-12 columns subheader">
           <small>©2014 Go Fast Express Inc. All Rights Reserved.</small>
+          <small><a href="#">Privacy Policy</a></small>
         </div>
       </div>
       </div>
