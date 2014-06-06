@@ -127,7 +127,6 @@ background:none;
 }
 button, .button{
    background-color:transparent;
-  padding: 8px 16px;
   border-radius: 3px;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight:bold;
@@ -139,7 +138,41 @@ button, .button{
   -webkit-transition:.5s;
   transition:.5s;
 }
-button:hover, .button:hover{
+button:hover, .button:hover, button:active, .button:active, button:focus, .button:focus{
   color:#EEE;
   background-color:#ee6123;
+}
+button.secondary, .button.secondary{
+   background-color:transparent;
+  border-radius: 3px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight:bold;
+  border:2px solid #f1c40f;
+  color:#f1c40f;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+button.secondary:hover, .button.secondary:hover, button.secondary:active, .button.secondary:active, button.secondary:focus, .button.secondary:focus{
+  color:#EEE;
+  background-color:#f1c40f;
+}
+button.alert, .button.alert{
+   background-color:transparent;
+  border-radius: 3px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight:bold;
+  border:2px solid #c0392b;
+  color:#c0392b;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+button.alert:hover, .button.alert:hover, button.alert:active, .button.alert:active, button.alert:focus, .button.alert:focus{
+  color:#EEE;
+  background-color:#c0392b;
 }
