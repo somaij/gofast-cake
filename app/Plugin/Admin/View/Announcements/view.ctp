@@ -2,8 +2,8 @@
 <br>
   <div class="row">
     <ul class="breadcrumbs large-12 columns">
-      <li><?php echo $this->Html->link('Home', '/'); ?></li>
-      <li><?php echo $this->Html->link('Announcements', '/announcements/'); ?></li>
+      <li><?php echo $this->Html->link('Home', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'index')); ?></li>
+      <li><?php echo $this->Html->link('Announcements', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'index')); ?></li>
       <li class="current"><?php echo $data['title']; ?></li>
     </ul>
   </div>
