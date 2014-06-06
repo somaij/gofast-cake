@@ -53,10 +53,9 @@ class AnnouncementsController extends AdminAppController {
 
       if ($this->Announcement->save($this->request->data)) {
         $this->Session->setFlash('Announcement successfully created.', 'message');
-        return $this->redirect(array('controller' => 'announcements', 'action' => 'index'));
-      } else {
-        $this->Session->setFlash('Announcement could not be created.', 'error');
+        return $this->redirect('index');
       }
+      $this->Session->setFlash('Announcement could not be created.', 'error');
     }
   }
 

@@ -8,9 +8,7 @@
           <th><?php echo $this->Paginator->sort('post_date', 'Post Date'); ?></th>
           <th><?php echo $this->Paginator->sort('close_date', 'Closing Date'); ?></th>
           <th>Description</th>
-          <th>Requirements</th>
-          <th></th>
-          <th></th>
+          <th colspan="3">Requirements</th>
         </tr>
       </thead>
       <tbody>
@@ -19,9 +17,27 @@
           foreach ($data as $job) {
             $job = $job['Job'];
 
-            echo "<tr><td>".$this->Html->link($job['title'], 'view/'.$job['id'])."</td><td>".$job['post_date']."</td>"
-                  . "<td>".$job['close_date']."</td><td>". substr($job['description'],0,150)."...</td><td>"
-                  . substr($job['requirements'],0,150)."...</td><td>".$this->Html->link('Edit', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'edit', $job['id']), array('class' => 'button small secondary'))."</td><td>".$this->Html->link('Delete', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'delete', $job['id']), array('class' => 'button small alert'))."</td></tr>";
+            echo "<tr>" .
+                    "<td>" . $this->Html->link($job['title'], 'view/'.$job['id']) . "</td>" .
+                    "<td>" . $job['post_date'] . "</td>" .
+                    "<td>" . $job['close_date'] . "</td>" .
+                    "<td>" . substr($job['description'],0,150) . "...</td>" .
+                    "<td>" . substr($job['requirements'],0,150) . "...</td>" .
+                    "<td>" .
+                      $this->Html->link('Edit', array(
+                            'plugin' => 'admin',
+                            'controller' => 'jobs',
+                            'action' => 'edit', $job['id']),
+                        array('class' => 'button small secondary')) .
+                    "</td>" .
+                    "<td>" .
+                      $this->Html->link('Delete', array(
+                            'plugin' => 'admin',
+                            'controller' => 'jobs',
+                            'action' => 'delete', $job['id']),
+                        array('class' => 'button small alert')) .
+                    "</td>" .
+                  "</tr>";
           }
 
         ?>
@@ -32,7 +48,7 @@
       ?>
       <tfoot>
         <tr>
-          <td colspan="5" class="text-center">
+          <td colspan="7" class="text-center">
             <?php echo $numbers; ?>
           </td>
         </tr>

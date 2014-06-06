@@ -47,7 +47,15 @@ class JobsController extends AdminAppController {
   }
 
   public function add() {
-    
+    if ($this->request->is('post')) {
+      $this->Job->create();
+
+      if ($this->Job->save($this->request->data)) {
+        $this->Session->setFlash('Job successfully posted.', 'message');
+        return $this->redirect('index');
+      }
+      $this->Session->setFlash('Job could not be created.', 'error');
+    }
   }
 
   public function delete($id) {

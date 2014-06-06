@@ -25,9 +25,13 @@
           foreach ($data as $job) {
             $job = $job['Job'];
 
-            echo "<tr><td>".$this->Html->link($job['title'], 'view/'.$job['id'])."</td><td>".$job['post_date']."</td>"
-                  . "<td>".$job['close_date']."</td><td>". substr($job['description'],0,150)."...</td><td>"
-                  . substr($job['requirements'],0,150)."...</td></tr>";
+            echo "<tr>" .
+                    "<td>" . $this->Html->link($job['title'], 'view/'.$job['id']) . "</td>" .
+                    "<td>" . $job['post_date'] . "</td>" .
+                    "<td>" . $job['close_date'] . "</td>" .
+                    "<td>" . substr($job['description'],0,150) . "...</td>" .
+                    "<td>" . substr($job['requirements'],0,150). "...</td>" .
+                "</tr>";
           }
 
         ?>

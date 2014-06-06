@@ -11,9 +11,7 @@
         <tr>
           <th width='175'><?php echo $this->Paginator->sort('title', 'Title'); ?></th>
           <th width='100'><?php echo $this->Paginator->sort('created', 'Date Posted'); ?></th>
-          <th>Content</th>
-          <th> </th>
-          <th> </th>
+          <th colspan="3">Content</th>
         </tr>
       </thead>
       <tbody>
@@ -22,8 +20,25 @@
 
           foreach ($data as $ann) {
             $ann = $ann['Announcement'];
-            echo "<tr><td>".$this->Html->link($ann['title'], 'view/'.$ann['slug'])."</td><td>".$ann['created']."</td>"
-                  . "<td>". (strlen($ann['body']) > 150 ? substr($ann['body'],0,150) : $ann['body']) . "...</td><td>".$this->Html->link('Edit', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'edit', $ann['id']), array('class' => 'button small secondary'))."</td><td>". $this->Html->link('Delete', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'delete', $ann['id']), array('class' => 'button small alert'))."</td></tr>";
+            echo "<tr>" .
+                    "<td>" . $this->Html->link($ann['title'], 'view/'.$ann['slug']) . "</td>" .
+                    "<td>" . $ann['created'] . "</td>" .
+                    "<td>" . (strlen($ann['body']) > 150 ? substr($ann['body'],0,150) : $ann['body']) . "...</td>" .
+                    "<td>" .
+                      $this->Html->link('Edit', array(
+                            'plugin' => 'admin',
+                            'controller' => 'announcements',
+                            'action' => 'edit', $ann['id']),
+                        array('class' => 'button small secondary')) .
+                    "</td>" .
+                    "<td>" .
+                      $this->Html->link('Delete', array(
+                            'plugin' => 'admin',
+                            'controller' => 'announcements',
+                            'action' => 'delete', $ann['id']),
+                        array('class' => 'button small alert')) .
+                    "</td>" .
+                  "</tr>";
           }
 
         ?>
@@ -35,7 +50,7 @@
       ?>
       <tfoot>
         <tr>
-          <td colspan="3" class="text-center">
+          <td colspan="5" class="text-center">
             <?php echo $numbers; ?>
           </td>
         </tr>
