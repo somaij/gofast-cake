@@ -9,7 +9,9 @@ class Admin extends AdminAppModel {
     'username' => array(
         'required' => array(
           'rule' => array('notEmpty'),
-          'message' => 'A username is required.'
+          'message' => 'A username is required.',
+          'required' => true,
+          'last' => false,
         ),
         'unique' => array(
           'rule' => 'isUnique',
@@ -20,7 +22,8 @@ class Admin extends AdminAppModel {
     'password' => array(
         'required' => array(
           'rule' => array('notEmpty'),
-          'message' => 'A password is required.'
+          'message' => 'A password is required.',
+          'required' => true,
         )
       )
 

@@ -1,6 +1,21 @@
 <?php
 
 class JobsController extends AdminAppController {
-  public $uses = array('Admin.Job');
+
+  public function view() {
+
+  }
+
+  public function edit() {
+
+  }
+
+  public function add() {
+    
+  }
+
+  public function beforeRender() {
+    $this->set('page', 'jobs');
+  }
 
 }
