@@ -9,12 +9,10 @@ class AdminAppController extends AppController {
             'action' => 'login'
           ),
 
-        'loginRedirect' => array(
-            'controller' => 'admin',
-            'action' => 'index'
-          ),
+        'loginRedirect' => 'index',
 
         'logoutRedirect' => array(
+            'plugin' => null,
             'controller' => 'home',
             'action' => 'index'
           ),

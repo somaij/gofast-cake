@@ -6,7 +6,8 @@ class AdminController extends AdminAppController {
 
   public function beforeFilter() {
     parent::beforeFilter();
-    $this->Auth->allow('add');
+    // No longer needed once base administrator has been made.
+    // $this->Auth->allow('add');
   }
 
   public function index() {
@@ -18,7 +19,7 @@ class AdminController extends AdminAppController {
       $this->Admin->create();
       if ($this->Admin->save($this->request->data)) {
         $this->Session->setFlash('Administrator has been created.', 'message');
-        return $this->redirect(array('action' => 'login'));
+        return $this->redirect(array('action' => 'index'));
       }
       $this->Session->setFlash('The user could not be saved to the database. Please try again.', 'error');
     }
@@ -26,7 +27,7 @@ class AdminController extends AdminAppController {
 
   public function login() {
     if ($this->request->is('post')) {
-      if ($this->Auth->login()) {
+      if ($this->Auth->login($this->request->data)) {
         return $this->redirect($this->Auth->redirect());
       }
       $this->Session->setFlash('Invalid username or password. Try again.', 'error');
@@ -35,5 +36,9 @@ class AdminController extends AdminAppController {
 
   public function logout() {
     return $this->redirect($this->Auth->logout());
+  }
+
+  public function beforeRender() {
+    $this->set('page', 'home');
   }
 }

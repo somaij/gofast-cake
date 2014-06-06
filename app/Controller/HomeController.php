@@ -7,10 +7,12 @@ class HomeController extends AppController {
   public function index() {
     $data = $this->Announcement->getThree();
     $this->set('data', $data);
+    $this->set('page', 'home');
     $this->render('home');
   }
 
-  public function beforeRender() {
-    $this->set('page', 'home');
+  public function about() {
+    $this->set('page', 'about');
   }
+
 }

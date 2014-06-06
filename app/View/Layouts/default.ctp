@@ -52,7 +52,7 @@ $description = 'Go Fast Express Inc.';
     <header>
       <div class="row">
         <div class="large-4 columns">
-          <h1><a href="#"><?php echo $this->Html->image('logo.png', array('width' => '250', 'height' => '250')); ?></a></h1>
+          <h1><?php echo $this->Html->link($this->Html->image('logo.png', array('width' => '250', 'height' => '250')), '/', array('escape' => false)); ?></h1>
         </div>
         <div class="large-8 columns">
           <br>

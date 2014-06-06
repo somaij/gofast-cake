@@ -10,6 +10,10 @@ class Admin extends AdminAppModel {
         'required' => array(
           'rule' => array('notEmpty'),
           'message' => 'A username is required.'
+        ),
+        'unique' => array(
+          'rule' => 'isUnique',
+          'message' => 'That username is already in use.'
         )
       ),
 
