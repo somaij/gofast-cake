@@ -4,7 +4,7 @@ class AnnouncementsController extends AdminAppController {
 
   public $components = array('Paginator');
   public $paginate = array(
-        'fields' => array('Announcement.slug', 'Announcement.title', 'Announcement.created', 'Announcement.body'),
+        'fields' => array('Announcement.id', 'Announcement.slug', 'Announcement.title', 'Announcement.created', 'Announcement.body'),
         'limit' => 15,
         'maxLimit' => 20,
         'order' => array(
