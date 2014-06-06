@@ -1,10 +1,20 @@
 <?php
 
 class AnnouncementsController extends AdminAppController {
+
+  public $components = array('Paginator');
+  public $paginate = array(
+        'fields' => array('Announcement.slug', 'Announcement.title', 'Announcement.created', 'Announcement.body'),
+        'limit' => 15,
+        'maxLimit' => 20,
+        'order' => array(
+            'Announcement.created' =>  'desc'
+            )
+        );
   
   public function index() {
-    $data = $this->Announcement->find('all');
-
+    $this->Paginator->settings = $this->paginate;
+    $data = $this->Paginator->paginate('Announcement');
     $this->set('data', $data);
   }
 

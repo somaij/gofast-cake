@@ -1,9 +1,19 @@
 <?php
 
 class JobsController extends AdminAppController {
+  public $components = array('Paginator');
+  public $paginate = array(
+        'fields' => array('Job.id', 'Job.title', 'Job.post_date', 'Job.close_date', 'Job.description', 'Job.requirements'),
+        'limit' => 15,
+        'maxLimit' => 20,
+        'order' => array(
+            'Job.close_date' => 'desc'
+            )
+        );
 
   public function index() {
-    $data = $this->Job->find('all');
+    $this->Paginator->settings = $this->paginate;
+    $data = $this->Paginator->paginate('Job');
     $this->set('data', $data);
   }
 

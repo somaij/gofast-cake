@@ -1,7 +1,7 @@
 <?php
 
 class JobsController extends AppController {
- public $components = array('Paginator');
+  public $components = array('Paginator');
   public $paginate = array(
         'fields' => array('Job.id', 'Job.title', 'Job.post_date', 'Job.close_date', 'Job.description', 'Job.requirements'),
         'limit' => 15,
