@@ -17,8 +17,8 @@
       <p><?php echo $data['body']; ?></p>
       <ul class="button-group">
       <li><?php echo $this->Html->link('View All', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'index'), array('class' => 'button right')); ?></li>
-      <li><?php echo $this->Html->link('Edit', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'edit'), array('class' => 'button right')); ?></li>
-      <li><?php echo $this->Html->link('Delete', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'delete'), array('class' => 'button right')); ?></li>
+      <li><?php echo $this->Html->link('Edit', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'edit', $data['id']), array('class' => 'button right')); ?></li>
+      <li><?php echo $this->Html->link('Delete', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'delete', $data['id']), array('class' => 'button right')); ?></li>
       </ul>
     </div>
   </div>
