@@ -36,7 +36,7 @@
             'label' => 'Closing Date (mm/dd/yyyy)',
             'placeholder' => '05/22/1992',
             'class' => 'datepicker',
-            'type' => 'text',
+            'type' => 'text', // Ehhhh...
             'div' => array('class' => 'medium-4 columns'))
         );
   ?>
