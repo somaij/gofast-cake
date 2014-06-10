@@ -36,8 +36,8 @@ class Job extends AdminAppModel {
 
       'close_date' => array(
           'date' => array(
-              'rule' => array('date', 'mdy'),
-              'message' => 'Close date must follow mm-dd-yyyy or mm/dd/yyyy format.',
+              'rule' => array('date', 'ymd'),
+              'message' => 'Close date must follow yyyy-mm-dd format.',
               'required' => false,
               'allowEmpty' => true
             )
@@ -48,7 +48,8 @@ class Job extends AdminAppModel {
     parent::beforeSave($options);
 
     if (empty($this->id)) {
-      $this->data[$this->alias]['post_date'] = date('m-d-Y');
+      $now = new DateTime(null, new DateTimeZone('America/New_York'));
+      $this->data[$this->alias]['post_date'] = $now->format('Y-m-d');
     }
 
     return true;

@@ -162,15 +162,23 @@ class Quote extends AppModel {
         ),
     );
 
-    public function postalCode($data) {
-      $postalCode = array_values($data);
-      $postalCode = $postalCode[0];
-      if (is_numeric($postalCode)) {
-        return preg_match('/^[0-9]{5,5}$/', $postalCode);
-      } else {
-        $regex = "/^[a-ceghj-nprstvxy]{1}[0-9]{1}[a-ceghj-nprstv-z]{1}[ ]{0,1}"
-                  ."[0-9]{1}[a-ceghj-nprstv-z]{1}[0-9]{1}$/i";
-        return preg_match($regex, $postalCode);
-      }
+  /**
+   * Validates a valid US or Canadian postal code.
+   *
+   * @param array $data Contains array-key value of postal code to validate.
+   * @return bool
+   */
+
+  public function postalCode($data) {
+    $postalCode = array_values($data);
+    $postalCode = $postalCode[0];
+    if (is_numeric($postalCode)) {
+      return preg_match('/^[0-9]{5,5}$/', $postalCode);
+    } else {
+      $regex = "/^[a-ceghj-nprstvxy]{1}[0-9]{1}[a-ceghj-nprstv-z]{1}[ ]{0,1}"
+                ."[0-9]{1}[a-ceghj-nprstv-z]{1}[0-9]{1}$/i";
+      return preg_match($regex, $postalCode);
     }
+  }
+
 }
