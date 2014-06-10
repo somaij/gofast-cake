@@ -24,30 +24,30 @@ $description = 'Go Fast Express Inc.';
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
-	<?php echo $this->Html->charset(); ?>
-	<title>
-		<?php echo $description ?> -
-		<?php echo $title_for_layout; ?>
-	</title>
+  <?php echo $this->Html->charset(); ?>
+  <title>
+    <?php echo $description ?> -
+    <?php echo $title_for_layout; ?>
+  </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
   <?php
-		echo $this->Html->meta('icon');
+    echo $this->Html->meta('icon');
 
-		echo $this->Html->css('normalize');
-		echo $this->Html->css('foundation');
-		echo $this->Html->css('custom');
+    echo $this->Html->css('normalize');
+    echo $this->Html->css('foundation');
+    echo $this->Html->css('custom');
     if ($page == 'quotes') {
-		  echo $this->Html->css('glDatePicker.flatwhite');
+      echo $this->Html->css('glDatePicker.flatwhite');
     }
 
-		echo $this->Html->script('modernizr');
-		echo $this->Html->script('foundation.dropdown');
-		echo $this->Html->script('foundation.topbar');
+    echo $this->Html->script('modernizr');
+    echo $this->Html->script('foundation.dropdown');
+    echo $this->Html->script('foundation.topbar');
 
-	?>
+  ?>
   </head>
   <body>
     <div class="page-wrap">
