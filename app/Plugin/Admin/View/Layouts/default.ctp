@@ -44,37 +44,36 @@ $description = 'Go Fast Express Inc.';
         </div>
       </div>
       <div class="contain-to-grid sticky">
-      <nav class="top-bar" data-topbar>
-        <!-- Right Nav Section -->
-        <div class="row">
-        <div class="large-12 columns">
-        <ul class="title-area">
-          <li class="name">
-            <h1><a href="#"></a></h1>
-          </li>
-            <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-          </ul>
-          <ul class="right">
-            <li<?php if ($page == 'home') echo ' class="active"'; ?>><?php echo $this->Html->link('Cpanel Home', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'index')); ?></li>
+        <nav class="top-bar" data-topbar>
+          <!-- Right Nav Section -->
+          <div class="row">
+            <div class="large-12 columns">
+              <ul class="title-area">
+                <li class="name">
+                  <h1><a href="#"></a></h1>
+                </li>
+                <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+              </ul>
+              <ul class="right">
+                <li<?php if ($page == 'home') echo ' class="active"'; ?>><?php echo $this->Html->link('Cpanel Home', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'index')); ?></li>
 
-            <?php
-              // Only display nav options if user is logged in.
-              if ($this->Session->read('Auth.User')):
-            ?>
+                <?php
+                  // Only display nav options if user is logged in.
+                  if ($this->Session->read('Auth.User')):
+                ?>
 
-            <li<?php if ($page == 'announcements') echo ' class="active"'; ?>><?php echo $this->Html->link('Announcements', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'index')); ?></li>
-            <li<?php if ($page == 'jobs') echo ' class="active"'; ?>><?php echo $this->Html->link('Job Postings', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'index')); ?></li>
-            <li><?php echo $this->Html->link('Sign Out', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'logout')); ?></li>
+                <li<?php if ($page == 'announcements') echo ' class="active"'; ?>><?php echo $this->Html->link('Announcements', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'index')); ?></li>
+                <li<?php if ($page == 'jobs') echo ' class="active"'; ?>><?php echo $this->Html->link('Job Postings', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'index')); ?></li>
+                <li><?php echo $this->Html->link('Sign Out', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'logout')); ?></li>
 
-            <?php
-              endif;
-            ?>
+                <?php
+                  endif;
+                ?>
 
-            ?>
-          </ul>
-        </div>
-        </div>
-      </nav>
+              </ul>
+            </div>
+          </div>
+        </nav>
       </div>
     </header>
 
@@ -82,7 +81,6 @@ $description = 'Go Fast Express Inc.';
 
       <?php echo $this->fetch('content'); ?>
 
-    
     <?php
       echo $this->Html->script('vendor/jquery');
       if ($page == 'jobs') { echo $this->Html->script('glDatePicker'); }

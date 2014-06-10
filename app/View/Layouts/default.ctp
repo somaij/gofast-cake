@@ -51,72 +51,72 @@ $description = 'Go Fast Express Inc.';
   </head>
   <body>
     <div class="page-wrap">
-    <header>
-      <div class="row">
-        <div class="large-4 columns">
-          <h1><?php echo $this->Html->link($this->Html->image('logo.png', array('width' => '250', 'height' => '250')), '/', array('escape' => false)); ?></h1>
-        </div>
-        <div class="large-8 columns">
-          <br>
-          <h4 class="right">Your #1 Source for Transportation Services</h4>
-        </div>
-      </div>
-      <div class="contain-to-grid sticky">
-      <nav class="top-bar" data-topbar>
-        <!-- Right Nav Section -->
+      <header>
         <div class="row">
-        <div class="large-12 columns">
-        <ul class="title-area">
-          <li class="name">
-            <h1><a href="#"></a></h1>
-          </li>
-            <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-          </ul>
-          <ul class="right">
-            <li <?php if ($page == 'home') echo 'class="active"'; ?>><?php echo $this->Html->link('Home', '/'); ?></li>
-            <li <?php if ($page == 'about') echo 'class="active"'; ?>><?php echo $this->Html->link('About Us', '/about'); ?></li>
-            <li <?php if ($page == 'quotes') echo 'class="active"'; ?>><?php echo $this->Html->link('Quotes', '/quotes'); ?></li>
-            <li <?php if ($page == 'jobs') echo 'class="active"'; ?>><?php echo $this->Html->link('Jobs', '/jobs'); ?></li>
-          </ul>
+          <div class="large-4 columns">
+            <h1><?php echo $this->Html->link($this->Html->image('logo.png', array('width' => '250', 'height' => '250')), '/', array('escape' => false)); ?></h1>
+          </div>
+          <div class="large-8 columns">
+            <br>
+            <h4 class="right">Your #1 Source for Transportation Services</h4>
+          </div>
         </div>
+        <div class="contain-to-grid sticky">
+          <nav class="top-bar" data-topbar>
+            <!-- Right Nav Section -->
+            <div class="row">
+              <div class="large-12 columns">
+                <ul class="title-area">
+                  <li class="name">
+                    <h1><a href="#"></a></h1>
+                  </li>
+                  <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+                </ul>
+                <ul class="right">
+                  <li <?php if ($page == 'home') echo 'class="active"'; ?>><?php echo $this->Html->link('Home', '/'); ?></li>
+                  <li <?php if ($page == 'about') echo 'class="active"'; ?>><?php echo $this->Html->link('About Us', '/about'); ?></li>
+                  <li <?php if ($page == 'quotes') echo 'class="active"'; ?>><?php echo $this->Html->link('Quotes', '/quotes'); ?></li>
+                  <li <?php if ($page == 'jobs') echo 'class="active"'; ?>><?php echo $this->Html->link('Jobs', '/jobs'); ?></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
         </div>
-      </nav>
-      </div>
-    </header>
+      </header>
 
       <?php echo $this->Session->flash(); ?>
 
       <?php echo $this->fetch('content'); ?>
+
     </div>
     <footer>
       <div class="row">
-      <br/>
-      <div class="small-4 columns">
-      <ul class="no-bullet">
-        <li><h4>Location</h4></li>
-        <li>2828 Slough St.</li>
-        <li>Mississauga, ON</li>
-        <li>L4T 1G3</li>
-      </ul>
-      </div>
-      <div class="small-4 columns">
+        <br/>
+        <div class="small-4 columns">
         <ul class="no-bullet">
-        <li><h4>Contact Us</h4></li>
-        <li>gofastexpress@gmail.com</li>
-        <li>905-488-3118 (7am - 7pm)</li>
+          <li><h4>Location</h4></li>
+          <li>2828 Slough St.</li>
+          <li>Mississauga, ON</li>
+          <li>L4T 1G3</li>
         </ul>
-      </div>
-      <div class="small-4 columns">
-
+        </div>
+        <div class="small-4 columns">
+          <ul class="no-bullet">
+          <li><h4>Contact Us</h4></li>
+          <li>gofastexpress@gmail.com</li>
+          <li>905-488-3118 (7am - 7pm)</li>
+          </ul>
+        </div>
+        <div class="small-4 columns">
         </div>
       </div>
       <div class="subfooter">
-      <div class="row">
-        <div class="small-12 columns subheader">
-          <small>©2014 Go Fast Express Inc. All Rights Reserved.</small>
-          <small><a href="#">Privacy Policy</a></small>
+        <div class="row">
+          <div class="small-12 columns subheader">
+            <small>©2014 Go Fast Express Inc. All Rights Reserved.</small>
+            <small><a href="#">Privacy Policy</a></small>
+          </div>
         </div>
-      </div>
       </div>
     </footer>
     <?php
