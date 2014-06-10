@@ -163,20 +163,20 @@ class Quote extends AppModel {
     );
 
   /**
-   * Validates a valid US or Canadian postal code.
+   * Validates a valid U.S. or Canadian postal code.
    *
    * @param array $data Contains array-key value of postal code to validate.
-   * @return bool
+   * @return int
    */
 
   public function postalCode($data) {
     $postalCode = array_values($data);
     $postalCode = $postalCode[0];
     if (is_numeric($postalCode)) {
-      return preg_match('/^[0-9]{5,5}$/', $postalCode);
+      return preg_match('/^\d{5}([\-]?\d{4})?$/', $postalCode);
     } else {
-      $regex = "/^[a-ceghj-nprstvxy]{1}[0-9]{1}[a-ceghj-nprstv-z]{1}[ ]{0,1}"
-                ."[0-9]{1}[a-ceghj-nprstv-z]{1}[0-9]{1}$/i";
+      $regex = '/^([a-ceghj-nprstvxy]\d[a-ceghj-nprstv-z])[ ]?'
+                . '(\d[a-ceghj-nprstv-z]\d)$/i';
       return preg_match($regex, $postalCode);
     }
   }
