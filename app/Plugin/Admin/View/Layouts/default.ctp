@@ -1,20 +1,4 @@
 <?php
-/**
- *
- *
- * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
- * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
- *
- * Licensed under The MIT License
- * For full copyright and license information, please see the LICENSE.txt
- * Redistributions of files must retain the above copyright notice.
- *
- * @copyright     Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
- * @link          http://cakephp.org CakePHP(tm) Project
- * @package       app.View.Layouts
- * @since         CakePHP(tm) v 0.10.0.1076
- * @license       http://www.opensource.org/licenses/mit-license.php MIT License
- */
 if (!isset($page)) {
   $page = null;
 }
@@ -44,7 +28,6 @@ $description = 'Go Fast Express Inc.';
 		echo $this->Html->script('modernizr');
 		echo $this->Html->script('foundation.dropdown');
 		echo $this->Html->script('foundation.topbar');
-
 	?>
   </head>
   <body>
@@ -71,9 +54,21 @@ $description = 'Go Fast Express Inc.';
           </ul>
           <ul class="right">
             <li<?php if ($page == 'home') echo ' class="active"'; ?>><?php echo $this->Html->link('Cpanel Home', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'index')); ?></li>
+
+            <?php
+              // Only display nav options if user is logged in.
+              if ($this->Session->read('Auth.User')):
+            ?>
+
             <li<?php if ($page == 'announcements') echo ' class="active"'; ?>><?php echo $this->Html->link('Announcements', array('plugin' => 'admin', 'controller' => 'announcements', 'action' => 'index')); ?></li>
             <li<?php if ($page == 'jobs') echo ' class="active"'; ?>><?php echo $this->Html->link('Job Postings', array('plugin' => 'admin', 'controller' => 'jobs', 'action' => 'index')); ?></li>
             <li><?php echo $this->Html->link('Sign Out', array('plugin' => 'admin', 'controller' => 'admin', 'action' => 'logout')); ?></li>
+
+            <?php
+              endif;
+            ?>
+
+            ?>
           </ul>
         </div>
         </div>

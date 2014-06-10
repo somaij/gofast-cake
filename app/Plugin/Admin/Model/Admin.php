@@ -31,10 +31,12 @@ class Admin extends AdminAppModel {
 
   public function beforeSave($options = array()) {
     parent::beforeSave($options);
+
     if (!empty($this->data[$this->alias]['pwd'])) {
       $hasher = new BlowfishPasswordHasher();
       $this->data[$this->alias]['password'] = $hasher->hash($this->data[$this->alias]['pwd']);
     }
+
     return true;
   }
 }

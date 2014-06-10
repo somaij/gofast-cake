@@ -44,8 +44,12 @@ class Job extends AdminAppModel {
     );
 
   public function beforeSave($options = array()) {
+    parent::beforeSave($options);
+
     if (empty($this->id)) {
       $this->data[$this->alias]['post_date'] = date('m-d-Y');
     }
+
+    return true;
   }
 }
