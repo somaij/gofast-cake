@@ -1,6 +1,7 @@
 <?php
 
 class JobsController extends AdminAppController {
+
   public $components = array('Paginator');
   public $paginate = array(
         'fields' => array('Job.id', 'Job.title', 'Job.post_date', 'Job.close_date', 'Job.description', 'Job.requirements'),

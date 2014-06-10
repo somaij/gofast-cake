@@ -1,6 +1,7 @@
 <?php
 
 class Job extends AdminAppModel {
+
   public $validate = array(
       'title' => array(
           'lettersOnly' => array(
