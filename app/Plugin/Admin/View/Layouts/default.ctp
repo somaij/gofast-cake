@@ -23,7 +23,9 @@ $description = 'Go Fast Express Inc.';
 		echo $this->Html->css('normalize');
 		echo $this->Html->css('foundation');
 		echo $this->Html->css('custom');
-		echo $this->Html->css('glDatePicker.flatwhite');
+    if ($page == 'jobs') {
+	     echo $this->Html->css('glDatePicker.flatwhite');
+    }
 
 		echo $this->Html->script('modernizr');
 		echo $this->Html->script('foundation.dropdown');
