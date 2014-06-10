@@ -2,6 +2,14 @@
 
 class AdminAppModel extends AppModel {
 
+  /**
+   * Creates a unique slug using Cake's Inflector and some number randomization.
+   *
+   * @param string $title Title to base slug off of.
+   * @param int $id ID of row to prevent self-matches in DB search.
+   * @return string
+   */
+
   protected function uniqueSlug($title, $id = null) {
     $slug = Inflector::slug($title, '-');
     $slug = substr($slug, 0, 54);
